@@ -29,6 +29,10 @@ body {
   text-align: center;
 }
 
+a {
+  color: #ff9327;
+}
+
 /* Navbar */
 #navbar {
   position: fixed;
@@ -91,7 +95,6 @@ section li {
 }
 
 section a {
-  color: #ff9327;
   text-decoration: none;
 }
 
