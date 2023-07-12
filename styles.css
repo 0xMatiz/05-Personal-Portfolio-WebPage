@@ -70,6 +70,10 @@ section {
   margin-bottom: 2rem;
 }
 
+h5 {
+  font-weight: bold;
+}
+
 section h2 {
   font-size: 2rem;
   color: #ff9327;
@@ -151,4 +155,28 @@ footer a {
   footer a {
     font-size: 1rem;
   }
+}
+
+.list-group-item {
+  font-weight: bold;
+  color: #c2590a;
+}
+
+.list-group-item-text {
+  color: #c2590a;
+}
+
+.btn-primary {
+  background-color: #c2590a;
+  border-color: #c2590a;
+}
+
+.btn-primary:hover {
+  background-color: #a04e09;
+  border-color: #a04e09;
+}
+
+.highlighted-text {
+  color: #ff9327;
+  font-weight: bold;
 }
